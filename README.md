@@ -4,5 +4,5 @@ Here you can find the various features assigned for this homework and other thin
 ![picture file is missing](serverIcon.png)
 
 > Links:
-> [The Bee Movie Script](Markdown-Pages-on-GitHub/script.md)
+> [The Bee Movie Script](/script.md)
 > 
