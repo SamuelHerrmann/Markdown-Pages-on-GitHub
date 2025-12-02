@@ -3,6 +3,5 @@ Here you can find the various features assigned for this homework and other thin
 
 ![picture file is missing](serverIcon.png)
 
-> Links:
-> [The Bee Movie Script](/script.md)
-> 
+> Link:
+> 1. [The Bee Movie Script](/script.md)
